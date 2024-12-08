@@ -1,0 +1,1329 @@
+10-06 00:13:45.456 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 00:13:45.466 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 00:13:45.480 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 06:03:01.905 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 06:03:01.925 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 06:03:01.949 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 11:36:31.616 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 11:36:31.616 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 11:36:31.653 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 11:44:58.490 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 11:44:58.519 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 11:44:58.570 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 11:48:52.422 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-06 11:48:52.622 MainThread network  WARNING  join       Thread-1 server TID [26854/139813618034432] hanging on None
+10-06 11:49:00.800 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-06 11:49:01.001 MainThread network  WARNING  join       Thread-1 server TID [26870/140101473056512] hanging on None
+10-06 11:51:29.564 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-06 11:51:29.765 MainThread network  WARNING  join       Thread-1 server TID [27243/140672118990592] hanging on None
+10-06 11:51:31.899 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-06 11:51:32.100 MainThread network  WARNING  join       Thread-1 server TID [27256/140175190189824] hanging on None
+10-06 12:06:14.865 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 12:06:16.394 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 12:08:37.704 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-06 12:08:37.905 MainThread network  WARNING  join       Thread-1 server TID [28654/140357005723392] hanging on None
+10-06 12:08:43.360 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-06 12:08:43.560 MainThread network  WARNING  join       Thread-1 server TID [28589/140689038362368] hanging on None
+10-06 13:50:34.697 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-06 13:50:34.899 MainThread network  WARNING  join       Thread-1 server TID [  402/139794494248704] hanging on None
+10-06 13:50:40.155 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-06 13:50:40.356 MainThread network  WARNING  join       Thread-1 server TID [  490/139949866456832] hanging on None
+10-06 14:01:39.629 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 14:01:39.663 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 14:13:14.401 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 14:13:14.406 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+10-06 14:26:13.267 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-06 14:26:13.288 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-06 14:26:13.296 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-08 00:52:08.136 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-08 00:52:08.364 MainThread network  WARNING  join       Thread-1 server TID [ 7218/140393121867520] hanging on None
+10-08 00:52:09.665 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-08 00:52:09.865 MainThread network  WARNING  join       Thread-1 server TID [ 7296/139714196576000] hanging on None
+10-08 00:52:11.204 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-08 00:52:11.404 MainThread network  WARNING  join       Thread-1 server TID [ 7249/139709737785088] hanging on None
+10-13 02:53:48.658 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-13 02:53:48.674 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-13 02:53:48.682 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 00:12:26.343 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 00:12:26.343 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 00:21:38.601 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-15 00:21:38.923 MainThread network  WARNING  join       Thread-1 server TID [ 5176/140570060510976] hanging on None
+10-15 00:21:57.056 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-15 00:21:57.257 MainThread network  WARNING  join       Thread-1 server TID [ 4950/140530930169600] hanging on None
+10-15 00:22:02.471 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-15 00:22:02.681 MainThread network  WARNING  join       Thread-1 server TID [ 5041/139659884148480] hanging on None
+10-15 00:37:47.462 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 00:37:47.510 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 00:37:47.510 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 02:04:23.205 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-15 02:04:23.461 MainThread network  WARNING  join       Thread-1 server TID [ 4849/140219549136640] hanging on None
+10-15 13:05:10.000 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 13:05:11.420 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 13:35:28.921 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-15 13:35:28.926 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 00:02:58.558 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 00:02:58.607 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 00:02:58.659 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 00:02:58.750 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 00:32:14.581 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:23:24.689 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:23:24.693 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:23:24.715 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:31:02.196 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:31:02.295 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:31:02.295 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:35:57.128 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:35:57.136 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 03:35:57.164 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-16 04:11:33.365 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-16 04:11:33.634 MainThread network  WARNING  join       Thread-1 server TID [10803/140373485422336] hanging on None
+10-16 04:11:35.176 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-16 04:11:35.490 MainThread network  WARNING  join       Thread-1 server TID [10851/139812132148992] hanging on None
+10-21 05:06:01.078 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-21 05:06:01.211 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-21 05:06:01.230 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+10-23 03:17:33.353 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-23 03:17:33.642 MainThread network  WARNING  join       Thread-1 server TID [20193/140363278718720] hanging on None
+10-23 03:17:38.581 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-23 03:17:38.782 MainThread network  WARNING  join       Thread-1 server TID [20226/140327216125696] hanging on None
+10-27 00:18:50.749 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-27 00:18:50.981 MainThread network  WARNING  join       Thread-1 server TID [ 5148/140350156388096] hanging on None
+10-27 00:18:54.804 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-27 00:18:55.005 MainThread network  WARNING  join       Thread-1 server TID [ 5186/140203485931264] hanging on None
+10-29 02:04:20.627 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-29 02:04:20.911 MainThread network  WARNING  join       Thread-1 server TID [ 6123/140403201308416] hanging on None
+10-29 02:04:23.660 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-29 02:04:23.861 MainThread network  WARNING  join       Thread-1 server TID [ 6171/140350345303808] hanging on None
+10-29 23:34:46.357 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-29 23:34:47.163 MainThread network  WARNING  join       Thread-1 server TID [ 8012/140559897736960] hanging on None
+10-29 23:34:48.992 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+10-29 23:34:49.194 MainThread network  WARNING  join       Thread-1 server TID [ 8049/139874964416256] hanging on None
+11-02 01:59:42.359 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 01:59:45.370 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:05:33.922 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-02 02:05:34.123 MainThread network  WARNING  join       Thread-1 server TID [15415/140296375162624] hanging on None
+11-02 02:05:35.880 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-02 02:05:36.081 MainThread network  WARNING  join       Thread-1 server TID [15452/140137468798720] hanging on None
+11-02 02:14:50.659 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-02 02:14:50.870 MainThread network  WARNING  join       Thread-1 server TID [16299/139878357694208] hanging on None
+11-02 02:14:52.335 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-02 02:14:52.536 MainThread network  WARNING  join       Thread-1 server TID [16346/140222266631936] hanging on None
+11-02 02:31:17.353 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:31:17.422 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:36:34.561 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:36:34.594 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:36:34.644 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:51:27.098 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:51:27.126 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:51:27.191 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:55:52.756 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:55:52.825 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 02:55:52.834 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 03:00:59.022 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 03:03:36.179 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 03:03:36.202 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 03:03:36.204 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 03:09:25.369 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-02 03:09:25.570 MainThread network  WARNING  join       Thread-1 server TID [ 4794/140312005179136] hanging on None
+11-02 03:09:26.456 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-02 03:09:26.657 MainThread network  WARNING  join       Thread-1 server TID [ 4747/140503240226560] hanging on None
+11-02 03:09:27.820 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-02 03:09:28.020 MainThread network  WARNING  join       Thread-1 server TID [ 4838/140393876145920] hanging on None
+11-02 03:27:44.315 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 03:27:44.355 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 03:27:44.390 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 04:56:24.805 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 04:56:24.834 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 04:58:05.863 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 04:58:05.872 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 04:58:05.877 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 05:01:08.368 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 05:01:10.330 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 05:01:10.372 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 05:10:00.349 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-02 05:10:00.384 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-04 05:48:00.767 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-04 05:48:01.030 MainThread network  WARNING  join       Thread-1 server TID [13222/140305666397952] hanging on None
+11-04 05:48:02.772 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-04 05:48:02.972 MainThread network  WARNING  join       Thread-1 server TID [13175/139839746025216] hanging on None
+11-04 05:48:15.145 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-04 05:48:15.346 MainThread network  WARNING  join       Thread-1 server TID [13276/140249597826816] hanging on None
+11-09 02:22:49.807 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:22:49.826 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:22:49.830 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:33:27.027 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:33:27.056 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:33:27.095 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:37:13.941 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:37:13.957 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:37:13.987 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 02:41:00.455 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 02:41:00.668 MainThread network  WARNING  join       Thread-1 server TID [25422/140392697382656] hanging on None
+11-09 02:41:01.662 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 02:41:01.863 MainThread network  WARNING  join       Thread-1 server TID [25342/140602204866304] hanging on None
+11-09 02:41:03.138 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 02:41:03.370 MainThread network  WARNING  join       Thread-1 server TID [25376/139843063248640] hanging on None
+11-09 03:19:00.648 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:19:00.725 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:19:00.738 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:30:58.207 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:30:58.235 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:30:58.281 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:48:41.660 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:48:41.666 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:58:12.689 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 03:58:12.720 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 04:03:17.262 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 04:03:17.287 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 04:03:17.311 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 04:08:12.818 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 04:08:12.828 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 04:10:59.857 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 04:11:00.567 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-09 04:11:00.577 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-10 11:43:36.669 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 11:43:36.886 MainThread network  WARNING  join       Thread-1 server TID [31583/140700699506432] hanging on None
+11-10 11:43:38.054 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 11:43:38.255 MainThread network  WARNING  join       Thread-1 server TID [31595/140453011302144] hanging on None
+11-10 11:58:09.448 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+11-10 11:58:09.479 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+11-10 12:09:46.552 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 12:09:46.753 MainThread network  WARNING  join       Thread-1 server TID [ 2373/140066578507520] hanging on None
+11-10 12:09:48.074 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 12:09:48.275 MainThread network  WARNING  join       Thread-1 server TID [ 2393/140274990884608] hanging on None
+11-10 12:09:50.019 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 12:09:50.220 MainThread network  WARNING  join       Thread-1 server TID [ 2426/140684924069632] hanging on None
+11-10 12:15:59.257 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 12:15:59.457 MainThread network  WARNING  join       Thread-1 server TID [ 3977/140231302190848] hanging on None
+11-10 12:16:07.473 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 12:16:07.673 MainThread network  WARNING  join       Thread-1 server TID [ 3846/140694649763584] hanging on None
+11-10 12:16:12.809 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 12:16:13.009 MainThread network  WARNING  join       Thread-1 server TID [ 3905/139861016041216] hanging on None
+11-10 12:25:08.221 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-10 12:25:08.302 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-10 12:25:08.304 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-10 16:29:30.659 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-10 16:29:30.860 MainThread network  WARNING  join       Thread-1 server TID [18652/140499514996480] hanging on None
+11-11 10:34:28.632 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-11 10:34:28.635 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-11 10:34:28.676 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-11 12:04:49.079 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:04:49.290 MainThread network  WARNING  join       Thread-1 server TID [19804/140403539433216] hanging on None
+11-11 12:04:50.214 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:04:50.414 MainThread network  WARNING  join       Thread-1 server TID [19412/140356129597184] hanging on None
+11-11 12:04:51.551 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:04:51.751 MainThread network  WARNING  join       Thread-1 server TID [18983/140029289387776] hanging on None
+11-21 03:07:41.205 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-21 03:07:41.496 MainThread network  WARNING  join       Thread-1 server TID [ 8456/140581164320512] hanging on None
+11-21 04:36:43.210 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-21 04:36:43.411 MainThread network  WARNING  join       Thread-1 server TID [15535/140684240508672] hanging on None
+11-22 00:10:18.241 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-22 00:10:18.551 MainThread network  WARNING  join       Thread-1 server TID [ 6991/139626742155008] hanging on None
+11-23 14:18:30.025 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-23 14:18:30.226 MainThread network  WARNING  join       Thread-1 server TID [ 2105/140599610930944] hanging on None
+11-23 15:25:26.085 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-23 15:25:26.285 MainThread network  WARNING  join       Thread-1 server TID [24019/140541480773376] hanging on None
+11-23 16:19:16.607 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-23 16:19:16.807 MainThread network  WARNING  join       Thread-1 server TID [25437/140579797546752] hanging on None
+11-24 09:57:51.124 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-24 09:57:51.325 MainThread network  WARNING  join       Thread-1 server TID [ 7755/139980284507904] hanging on None
+11-24 10:16:36.275 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-24 10:16:36.475 MainThread network  WARNING  join       Thread-1 server TID [ 8515/140083193566976] hanging on None
+11-24 10:29:03.717 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-24 10:29:03.917 MainThread network  WARNING  join       Thread-1 server TID [28803/140463239329536] hanging on None
+11-24 10:53:37.913 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-24 10:53:38.114 MainThread network  WARNING  join       Thread-1 server TID [29692/139962556548864] hanging on None
+11-24 11:18:28.870 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-24 11:18:29.071 MainThread network  WARNING  join       Thread-1 server TID [15686/140003741574912] hanging on None
+11-24 12:30:07.423 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-24 12:30:07.623 MainThread network  WARNING  join       Thread-1 server TID [18554/139860297508608] hanging on None
+11-24 12:40:13.075 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-24 12:40:13.276 MainThread network  WARNING  join       Thread-1 server TID [19253/140327159719680] hanging on None
+11-25 12:38:44.788 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 12:38:44.993 MainThread network  WARNING  join       Thread-1 server TID [17809/139656857413376] hanging on None
+11-25 12:38:50.364 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 12:38:50.565 MainThread network  WARNING  join       Thread-1 server TID [17841/140392938665728] hanging on None
+11-25 13:00:39.429 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 13:00:39.629 MainThread network  WARNING  join       Thread-1 server TID [21686/140545358362368] hanging on None
+11-25 13:00:43.372 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 13:00:43.572 MainThread network  WARNING  join       Thread-1 server TID [21717/139663827867392] hanging on None
+11-25 18:28:51.696 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 18:28:51.896 MainThread network  WARNING  join       Thread-1 server TID [ 7187/140545378293504] hanging on None
+11-25 18:28:57.292 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 18:28:57.492 MainThread network  WARNING  join       Thread-1 server TID [ 7218/139780540000000] hanging on None
+11-25 18:41:41.084 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 18:41:41.285 MainThread network  WARNING  join       Thread-1 server TID [12468/140557815715584] hanging on None
+11-25 18:48:57.945 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 18:48:58.146 MainThread network  WARNING  join       Thread-1 server TID [20703/140209638684416] hanging on None
+11-25 18:48:59.252 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-25 18:48:59.452 MainThread network  WARNING  join       Thread-1 server TID [20730/140684810508032] hanging on None
+11-26 00:03:24.573 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 00:03:24.773 MainThread network  WARNING  join       Thread-1 server TID [24216/140299809523456] hanging on None
+11-26 00:03:26.175 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 00:03:26.375 MainThread network  WARNING  join       Thread-1 server TID [24248/140312363063040] hanging on None
+11-26 00:06:51.413 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 00:06:51.613 MainThread network  WARNING  join       Thread-1 server TID [25628/140699564508928] hanging on None
+11-26 00:24:29.535 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 00:24:29.736 MainThread network  WARNING  join       Thread-1 server TID [27526/140168971646720] hanging on None
+11-26 00:24:32.816 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 00:24:33.017 MainThread network  WARNING  join       Thread-1 server TID [27554/139933337515776] hanging on None
+11-26 01:20:28.732 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 01:20:28.932 MainThread network  WARNING  join       Thread-1 server TID [ 2650/140146571044608] hanging on None
+11-26 01:20:30.164 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 01:20:30.364 MainThread network  WARNING  join       Thread-1 server TID [ 2687/139957903836928] hanging on None
+11-26 11:12:05.976 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 11:12:06.176 MainThread network  WARNING  join       Thread-1 server TID [17015/140048648800000] hanging on None
+11-26 11:12:07.609 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 11:12:07.809 MainThread network  WARNING  join       Thread-1 server TID [17041/139620948436736] hanging on None
+11-26 11:47:10.286 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 11:47:10.487 MainThread network  WARNING  join       Thread-1 server TID [23764/140028649248512] hanging on None
+11-26 11:47:13.081 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-26 11:47:13.282 MainThread network  WARNING  join       Thread-1 server TID [23790/140192278275840] hanging on None
+11-29 15:28:32.671 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-29 15:28:32.872 MainThread network  WARNING  join       Thread-1 server TID [ 3600/140688328488704] hanging on None
+11-29 17:58:59.421 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-29 17:59:00.541 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-30 10:19:05.157 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-30 10:19:05.357 MainThread network  WARNING  join       Thread-1 server TID [ 7791/140706552809216] hanging on None
+11-30 10:19:07.677 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-30 10:19:07.877 MainThread network  WARNING  join       Thread-1 server TID [ 7841/140019874092800] hanging on None
+11-30 10:35:43.976 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-30 10:35:44.060 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 10:23:49.977 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 11:11:54.584 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 11:11:54.785 MainThread network  WARNING  join       Thread-1 server TID [29102/140699863287552] hanging on None
+12-02 12:28:26.838 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 12:28:27.039 MainThread network  WARNING  join       Thread-1 server TID [11638/140506079991552] hanging on None
+12-02 13:41:51.753 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 13:41:51.777 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 14:23:18.966 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 14:25:49.744 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 15:31:17.793 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 15:31:17.993 MainThread network  WARNING  join       Thread-1 server TID [ 5839/140664341808896] hanging on None
+12-02 17:08:51.098 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 17:24:35.456 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 17:24:35.490 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 11:37:42.944 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 11:37:42.976 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 12:00:01.918 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 12:00:02.119 MainThread network  WARNING  join       Thread-1 server TID [19049/140118586062592] hanging on None
+12-03 12:00:03.054 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 12:00:03.254 MainThread network  WARNING  join       Thread-1 server TID [19074/139770865182464] hanging on None
+12-03 12:11:35.969 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 12:11:36.169 MainThread network  WARNING  join       Thread-1 server TID [19882/140366517155584] hanging on None
+12-03 13:34:18.191 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 13:34:18.392 MainThread network  WARNING  join       Thread-1 server TID [ 7279/140455094683392] hanging on None
+12-03 14:05:08.842 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 14:05:09.042 MainThread network  WARNING  join       Thread-1 server TID [10734/140511204542208] hanging on None
+12-03 14:05:09.994 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 14:05:10.195 MainThread network  WARNING  join       Thread-1 server TID [10763/140274322188032] hanging on None
+12-03 14:52:06.397 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 14:52:06.598 MainThread network  WARNING  join       Thread-1 server TID [12196/140563827721984] hanging on None
+12-03 14:52:15.573 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 14:52:15.789 MainThread network  WARNING  join       Thread-1 server TID [12177/140320044168960] hanging on None
+12-06 12:19:06.961 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:19:06.993 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:20:56.824 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 12:20:57.024 MainThread network  WARNING  join       Thread-1 server TID [32613/140347185977088] hanging on None
+12-06 12:20:57.593 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 12:20:57.793 MainThread network  WARNING  join       Thread-1 server TID [32591/139728322852608] hanging on None
+12-06 12:26:07.293 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:26:07.337 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:27:52.490 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:27:52.498 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:31:13.389 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:31:13.392 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:32:23.241 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:32:28.502 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:43:03.928 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:43:03.941 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:53:07.504 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 12:53:07.543 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 14:08:18.855 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 14:08:19.056 MainThread network  WARNING  join       Thread-1 server TID [22578/140255970313984] hanging on None
+12-06 14:08:26.999 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 14:08:27.199 MainThread network  WARNING  join       Thread-1 server TID [22559/140698894984960] hanging on None
+12-06 14:16:21.070 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 14:16:21.130 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 14:21:44.739 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 14:21:44.969 MainThread network  WARNING  join       Thread-1 server TID [30904/139710114637568] hanging on None
+12-06 14:21:45.810 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 14:21:46.011 MainThread network  WARNING  join       Thread-1 server TID [30922/140000326047488] hanging on None
+12-06 14:24:34.901 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 14:24:34.956 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 14:54:11.607 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 14:54:11.633 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 16:41:11.244 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 16:41:11.444 MainThread network  WARNING  join       Thread-1 server TID [ 7997/140586097637120] hanging on None
+12-06 16:41:12.307 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 16:41:12.508 MainThread network  WARNING  join       Thread-1 server TID [ 8018/139789948503808] hanging on None
+12-06 17:29:21.934 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 17:29:22.007 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-06 17:36:18.141 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 17:36:18.342 MainThread network  WARNING  join       Thread-1 server TID [14423/140051435411200] hanging on None
+12-06 17:36:19.277 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-06 17:36:19.477 MainThread network  WARNING  join       Thread-1 server TID [14404/139825185314560] hanging on None
+03-16 11:52:10.509 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+03-16 11:52:10.710 MainThread network  WARNING  join       Thread-1 server TID [18075/139885243455232] hanging on None
+03-21 10:26:25.180 MainThread enip.srv WARNING  logrotate_ Rotating log files due to signal
+03-21 12:22:14.898 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+03-21 12:22:15.099 MainThread network  WARNING  join       Thread-1 server TID [19572/140403657549568] hanging on None
+03-21 12:22:16.402 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+03-21 12:22:16.603 MainThread network  WARNING  join       Thread-1 server TID [19563/140390755149568] hanging on None
+03-23 19:13:33.742 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+03-23 19:13:33.943 MainThread network  WARNING  join       Thread-1 server TID [18343/140164089337600] hanging on None
+03-23 19:36:50.941 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+03-23 19:36:51.142 MainThread network  WARNING  join       Thread-1 server TID [20460/140413027370752] hanging on None
+03-23 19:36:53.884 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+03-23 19:36:54.085 MainThread network  WARNING  join       Thread-1 server TID [20503/139809211524864] hanging on None
+03-23 20:23:34.379 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+03-23 20:23:35.794 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-08 14:30:19.047 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-08 14:30:19.248 MainThread network  WARNING  join       Thread-1 server TID [ 7784/139884738660096] hanging on None
+11-08 15:59:46.038 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-08 15:59:46.238 MainThread network  WARNING  join       Thread-1 server TID [14387/139886667589376] hanging on None
+11-09 17:40:06.777 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 17:40:06.978 MainThread network  WARNING  join       Thread-1 server TID [20402/139912151963392] hanging on None
+11-09 17:46:23.101 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 17:46:23.302 MainThread network  WARNING  join       Thread-1 server TID [21430/139872137373440] hanging on None
+11-09 17:52:54.896 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 17:52:55.097 MainThread network  WARNING  join       Thread-1 server TID [22361/139675764725504] hanging on None
+11-09 17:52:57.681 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 17:52:57.882 MainThread network  WARNING  join       Thread-1 server TID [22368/139686967625472] hanging on None
+11-09 18:01:55.702 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 18:01:55.903 MainThread network  WARNING  join       Thread-1 server TID [23458/139978760345344] hanging on None
+11-09 18:15:17.409 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 18:15:17.615 MainThread network  WARNING  join       Thread-1 server TID [25302/140208188049152] hanging on None
+11-09 18:15:18.593 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 18:15:18.793 MainThread network  WARNING  join       Thread-1 server TID [25257/140177605428992] hanging on None
+11-09 18:38:46.722 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 18:38:46.923 MainThread network  WARNING  join       Thread-1 server TID [27375/139765022840576] hanging on None
+11-09 18:42:45.123 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 18:42:45.324 MainThread network  WARNING  join       Thread-1 server TID [27953/140233329448704] hanging on None
+11-09 18:56:31.672 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 18:56:31.873 MainThread network  WARNING  join       Thread-1 server TID [29549/140062245906176] hanging on None
+11-09 18:56:35.736 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-09 18:56:35.936 MainThread network  WARNING  join       Thread-1 server TID [29565/140156521002752] hanging on None
+11-11 21:00:22.764 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 21:00:22.964 MainThread network  WARNING  join       Thread-1 server TID [ 6470/140654245668608] hanging on None
+11-11 21:46:47.911 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 21:46:48.111 MainThread network  WARNING  join       Thread-1 server TID [ 8863/139995488384768] hanging on None
+11-12 10:11:04.619 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-12 10:11:04.820 MainThread network  WARNING  join       Thread-1 server TID [31921/140664030799616] hanging on None
+11-12 10:23:24.388 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-12 10:23:24.588 MainThread network  WARNING  join       Thread-1 server TID [  780/140445214078720] hanging on None
+11-12 10:23:25.284 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-12 10:23:25.485 MainThread network  WARNING  join       Thread-1 server TID [  769/140287706363648] hanging on None
+11-14 12:24:38.207 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-14 12:24:38.408 MainThread network  WARNING  join       Thread-1 server TID [ 8145/140463572592384] hanging on None
+11-15 11:32:10.663 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 11:32:10.864 MainThread network  WARNING  join       Thread-1 server TID [ 5873/139784793446144] hanging on None
+11-15 11:36:56.954 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 11:36:57.155 MainThread network  WARNING  join       Thread-1 server TID [ 6455/140525006292736] hanging on None
+11-15 11:41:25.677 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 11:41:25.878 MainThread network  WARNING  join       Thread-1 server TID [ 7051/139737915766528] hanging on None
+11-15 11:45:30.031 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 11:45:30.232 MainThread network  WARNING  join       Thread-1 server TID [ 7508/139934675592960] hanging on None
+11-15 11:45:31.216 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 11:45:31.417 MainThread network  WARNING  join       Thread-1 server TID [ 7497/139976543135488] hanging on None
+11-15 13:13:08.295 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 13:13:08.496 MainThread network  WARNING  join       Thread-1 server TID [10313/140564592092928] hanging on None
+11-15 13:13:10.088 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 13:13:10.289 MainThread network  WARNING  join       Thread-1 server TID [10302/139773574469376] hanging on None
+11-15 14:08:20.777 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 14:08:20.978 MainThread network  WARNING  join       Thread-1 server TID [12343/139794237662976] hanging on None
+11-15 14:08:21.882 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 14:08:22.083 MainThread network  WARNING  join       Thread-1 server TID [12326/140699556386560] hanging on None
+11-15 14:11:11.509 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-15 14:11:11.509 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-15 14:15:00.999 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 14:15:01.200 MainThread network  WARNING  join       Thread-1 server TID [13095/139785312323328] hanging on None
+11-15 14:29:34.326 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-15 14:29:35.465 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-15 14:33:03.130 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 14:33:03.330 MainThread network  WARNING  join       Thread-1 server TID [15803/140618688595712] hanging on None
+11-15 14:33:04.330 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 14:33:04.531 MainThread network  WARNING  join       Thread-1 server TID [15791/140351480104704] hanging on None
+11-15 14:48:49.162 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 14:48:49.363 MainThread network  WARNING  join       Thread-1 server TID [18156/140352343922432] hanging on None
+11-15 14:48:52.874 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 14:48:53.075 MainThread network  WARNING  join       Thread-1 server TID [18145/140269003060992] hanging on None
+11-15 15:15:11.276 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 15:15:11.477 MainThread network  WARNING  join       Thread-1 server TID [32717/140633344300800] hanging on None
+11-15 15:15:12.301 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 15:15:12.501 MainThread network  WARNING  join       Thread-1 server TID [32706/140052567185152] hanging on None
+11-15 15:36:11.434 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 15:36:11.634 MainThread network  WARNING  join       Thread-1 server TID [29335/140591403071232] hanging on None
+11-15 15:36:18.507 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 15:36:18.707 MainThread network  WARNING  join       Thread-1 server TID [29346/140698262193920] hanging on None
+11-15 16:05:02.484 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-15 16:05:02.543 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-15 16:13:11.579 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-15 16:13:11.627 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-15 19:14:11.165 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-15 19:14:11.366 MainThread network  WARNING  join       Thread-1 server TID [21623/140245038335744] hanging on None
+11-16 09:56:21.494 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-16 09:56:21.695 MainThread network  WARNING  join       Thread-1 server TID [27010/139793390176000] hanging on None
+11-16 09:56:22.629 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-16 09:56:22.830 MainThread network  WARNING  join       Thread-1 server TID [26998/140345682056960] hanging on None
+11-16 18:55:09.866 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-16 18:55:10.067 MainThread network  WARNING  join       Thread-1 server TID [13933/140717486819072] hanging on None
+11-16 18:55:13.498 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-16 18:55:13.698 MainThread network  WARNING  join       Thread-1 server TID [13922/140508407400192] hanging on None
+11-17 18:56:19.946 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-17 18:56:19.963 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-17 19:27:25.940 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-17 19:27:25.998 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 17:36:27.905 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 18:56:53.091 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 18:56:53.167 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 19:03:34.237 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 19:03:35.277 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 19:50:03.377 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 19:50:03.444 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 19:53:52.197 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-18 19:53:52.224 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-19 00:45:25.296 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-19 00:45:25.497 MainThread network  WARNING  join       Thread-1 server TID [24296/140083445671680] hanging on None
+11-19 00:45:26.463 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-19 00:45:26.664 MainThread network  WARNING  join       Thread-1 server TID [24307/140137704904448] hanging on None
+11-20 14:52:39.093 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-20 14:52:39.094 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-20 15:08:33.683 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-20 15:08:33.729 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-20 22:14:23.899 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-20 22:14:24.100 MainThread network  WARNING  join       Thread-1 server TID [ 2947/140675763398400] hanging on None
+11-20 22:14:28.826 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-20 22:14:29.026 MainThread network  WARNING  join       Thread-1 server TID [ 2935/140489577346816] hanging on None
+11-21 10:32:17.973 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-21 10:32:18.174 MainThread network  WARNING  join       Thread-1 server TID [25280/140220544530176] hanging on None
+11-21 10:32:18.838 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-21 10:32:19.038 MainThread network  WARNING  join       Thread-1 server TID [25264/139830285313792] hanging on None
+11-21 11:36:50.207 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-21 11:36:50.407 MainThread network  WARNING  join       Thread-1 server TID [31053/140183290693376] hanging on None
+11-21 11:36:54.207 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-21 11:36:54.407 MainThread network  WARNING  join       Thread-1 server TID [31041/140630089225984] hanging on None
+11-21 12:56:33.281 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-21 12:56:33.343 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+08-19 17:31:22.482 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+08-19 17:31:22.683 MainThread network  WARNING  join       Thread-1 server TID [22466/131737776555584] hanging on None
+08-19 17:33:56.383 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+08-19 17:33:56.584 MainThread network  WARNING  join       Thread-1 server TID [23015/140008503641664] hanging on None
+08-19 17:33:58.127 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+08-19 17:33:58.328 MainThread network  WARNING  join       Thread-1 server TID [23039/135783803520576] hanging on None
+08-19 17:36:06.462 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+08-19 17:36:06.670 MainThread network  WARNING  join       Thread-1 server TID [26079/134126030030400] hanging on None
+08-19 17:36:07.646 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+08-19 17:36:07.855 MainThread network  WARNING  join       Thread-1 server TID [26055/132833175668288] hanging on None
+08-20 12:23:45.538 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+08-20 12:23:45.539 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+09-05 16:15:34.394 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+09-05 16:15:34.603 MainThread network  WARNING  join       Thread-1 server TID [49492/131863912113728] hanging on None
+09-05 16:15:36.790 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+11-05 16:53:46.834 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-05 16:53:47.066 MainThread network  WARNING  join       Thread-1 server TID [1539458/130045806904896] hanging on None
+11-05 16:53:48.835 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-05 16:53:49.035 MainThread network  WARNING  join       Thread-1 server TID [1539482/124105548367424] hanging on None
+11-07 18:48:16.426 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-07 18:48:16.635 MainThread network  WARNING  join       Thread-1 server TID [34319/133288983266880] hanging on None
+11-07 18:48:19.291 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-07 18:48:19.492 MainThread network  WARNING  join       Thread-1 server TID [34347/128246605678144] hanging on None
+11-07 19:09:05.599 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-07 19:09:05.800 MainThread network  WARNING  join       Thread-1 server TID [35652/134967252223552] hanging on None
+11-07 19:09:06.752 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-07 19:09:06.953 MainThread network  WARNING  join       Thread-1 server TID [35678/133530120095296] hanging on None
+11-11 11:07:50.156 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 11:07:50.364 MainThread network  WARNING  join       Thread-1 server TID [496992/136094974740032] hanging on None
+11-11 11:07:51.132 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 11:07:51.332 MainThread network  WARNING  join       Thread-1 server TID [497019/125412506076736] hanging on None
+11-11 12:38:20.501   Thread-2 enip.srv WARNING  enip_srv   enip_34918 unable to wrap the socket with SSL for client ('192.168.1.10', 34918): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:20.511   Thread-2 network  WARNING  run        Thread-2 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:20.661   Thread-3 enip.srv WARNING  enip_srv   enip_34922 unable to wrap the socket with SSL for client ('192.168.1.10', 34922): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:20.662   Thread-3 network  WARNING  run        Thread-3 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:20.821   Thread-4 enip.srv WARNING  enip_srv   enip_34934 unable to wrap the socket with SSL for client ('192.168.1.10', 34934): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:20.822   Thread-4 network  WARNING  run        Thread-4 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:20.971   Thread-5 enip.srv WARNING  enip_srv   enip_34950 unable to wrap the socket with SSL for client ('192.168.1.10', 34950): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:20.972   Thread-5 network  WARNING  run        Thread-5 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:21.120   Thread-2 enip.srv WARNING  enip_srv   enip_41826 unable to wrap the socket with SSL for client ('192.168.1.10', 41826): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:21.121   Thread-2 network  WARNING  run        Thread-2 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:21.284   Thread-3 enip.srv WARNING  enip_srv   enip_41840 unable to wrap the socket with SSL for client ('192.168.1.10', 41840): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:21.284   Thread-3 network  WARNING  run        Thread-3 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:21.447   Thread-4 enip.srv WARNING  enip_srv   enip_41852 unable to wrap the socket with SSL for client ('192.168.1.10', 41852): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:21.447   Thread-4 network  WARNING  run        Thread-4 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:21.614   Thread-5 enip.srv WARNING  enip_srv   enip_41868 unable to wrap the socket with SSL for client ('192.168.1.10', 41868): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:21.614   Thread-5 network  WARNING  run        Thread-5 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:21.771   Thread-6 enip.srv WARNING  enip_srv   enip_41878 unable to wrap the socket with SSL for client ('192.168.1.10', 41878): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:21.772   Thread-6 network  WARNING  run        Thread-6 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:21.930   Thread-7 enip.srv WARNING  enip_srv   enip_41880 unable to wrap the socket with SSL for client ('192.168.1.10', 41880): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:21.930   Thread-7 network  WARNING  run        Thread-7 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:22.087   Thread-8 enip.srv WARNING  enip_srv   enip_41890 unable to wrap the socket with SSL for client ('192.168.1.10', 41890): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:22.088   Thread-8 network  WARNING  run        Thread-8 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:22.257   Thread-9 enip.srv WARNING  enip_srv   enip_41900 unable to wrap the socket with SSL for client ('192.168.1.10', 41900): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:22.257   Thread-9 network  WARNING  run        Thread-9 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:22.419  Thread-10 enip.srv WARNING  enip_srv   enip_41902 unable to wrap the socket with SSL for client ('192.168.1.10', 41902): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:22.419  Thread-10 network  WARNING  run        Thread-10 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:22.574  Thread-11 enip.srv WARNING  enip_srv   enip_41906 unable to wrap the socket with SSL for client ('192.168.1.10', 41906): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:22.574  Thread-11 network  WARNING  run        Thread-11 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:22.768  Thread-12 enip.srv WARNING  enip_srv   enip_41922 unable to wrap the socket with SSL for client ('192.168.1.10', 41922): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:22.768  Thread-12 network  WARNING  run        Thread-12 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:22.975  Thread-13 enip.srv WARNING  enip_srv   enip_41936 unable to wrap the socket with SSL for client ('192.168.1.10', 41936): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:22.976  Thread-13 network  WARNING  run        Thread-13 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:23.138  Thread-14 enip.srv WARNING  enip_srv   enip_41942 unable to wrap the socket with SSL for client ('192.168.1.10', 41942): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:23.138  Thread-14 network  WARNING  run        Thread-14 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:23.319  Thread-15 enip.srv WARNING  enip_srv   enip_49482 unable to wrap the socket with SSL for client ('192.168.1.70', 49482): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:23.319  Thread-15 network  WARNING  run        Thread-15 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:23.473  Thread-16 enip.srv WARNING  enip_srv   enip_49492 unable to wrap the socket with SSL for client ('192.168.1.70', 49492): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:23.473  Thread-16 network  WARNING  run        Thread-16 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:23.618  Thread-17 enip.srv WARNING  enip_srv   enip_49508 unable to wrap the socket with SSL for client ('192.168.1.70', 49508): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:23.619  Thread-17 network  WARNING  run        Thread-17 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:23.799  Thread-18 enip.srv WARNING  enip_srv   enip_49516 unable to wrap the socket with SSL for client ('192.168.1.70', 49516): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:23.799  Thread-18 network  WARNING  run        Thread-18 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:23.957  Thread-19 enip.srv WARNING  enip_srv   enip_49522 unable to wrap the socket with SSL for client ('192.168.1.70', 49522): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:23.958  Thread-19 network  WARNING  run        Thread-19 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:24.102  Thread-20 enip.srv WARNING  enip_srv   enip_49532 unable to wrap the socket with SSL for client ('192.168.1.70', 49532): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:24.103  Thread-20 network  WARNING  run        Thread-20 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:24.245  Thread-21 enip.srv WARNING  enip_srv   enip_49546 unable to wrap the socket with SSL for client ('192.168.1.70', 49546): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:24.245  Thread-21 network  WARNING  run        Thread-21 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:24.398  Thread-22 enip.srv WARNING  enip_srv   enip_49560 unable to wrap the socket with SSL for client ('192.168.1.70', 49560): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:24.398  Thread-22 network  WARNING  run        Thread-22 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:24.540  Thread-23 enip.srv WARNING  enip_srv   enip_49576 unable to wrap the socket with SSL for client ('192.168.1.70', 49576): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:24.541  Thread-23 network  WARNING  run        Thread-23 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:24.686  Thread-24 enip.srv WARNING  enip_srv   enip_49582 unable to wrap the socket with SSL for client ('192.168.1.70', 49582): 'module' object has no attribute 'PROTOCOL_TLSv3'
+11-11 12:38:24.687  Thread-24 network  WARNING  run        Thread-24 server failure: 'module' object has no attribute 'PROTOCOL_TLSv3'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv3       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv3'
+
+11-11 12:38:24.796 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:38:24.996 MainThread network  WARNING  join       Thread-1 server TID [510036/140298409739840] hanging on None
+11-11 12:38:25.996 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:38:26.197 MainThread network  WARNING  join       Thread-1 server TID [510062/127045023565376] hanging on None
+11-11 12:39:34.634   Thread-2 enip.srv WARNING  enip_srv   enip_47374 unable to wrap the socket with SSL for client ('192.168.1.10', 47374): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:34.635   Thread-2 network  WARNING  run        Thread-2 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:34.777   Thread-3 enip.srv WARNING  enip_srv   enip_47390 unable to wrap the socket with SSL for client ('192.168.1.10', 47390): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:34.778   Thread-3 network  WARNING  run        Thread-3 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:34.926   Thread-4 enip.srv WARNING  enip_srv   enip_47396 unable to wrap the socket with SSL for client ('192.168.1.10', 47396): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:34.926   Thread-4 network  WARNING  run        Thread-4 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:35.082   Thread-5 enip.srv WARNING  enip_srv   enip_47400 unable to wrap the socket with SSL for client ('192.168.1.10', 47400): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:35.083   Thread-5 network  WARNING  run        Thread-5 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:35.254   Thread-2 enip.srv WARNING  enip_srv   enip_58312 unable to wrap the socket with SSL for client ('192.168.1.10', 58312): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:35.255   Thread-2 network  WARNING  run        Thread-2 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:35.422   Thread-3 enip.srv WARNING  enip_srv   enip_58324 unable to wrap the socket with SSL for client ('192.168.1.10', 58324): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:35.423   Thread-3 network  WARNING  run        Thread-3 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:35.599   Thread-4 enip.srv WARNING  enip_srv   enip_58338 unable to wrap the socket with SSL for client ('192.168.1.10', 58338): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:35.600   Thread-4 network  WARNING  run        Thread-4 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:35.756   Thread-5 enip.srv WARNING  enip_srv   enip_58340 unable to wrap the socket with SSL for client ('192.168.1.10', 58340): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:35.756   Thread-5 network  WARNING  run        Thread-5 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:35.912   Thread-6 enip.srv WARNING  enip_srv   enip_58354 unable to wrap the socket with SSL for client ('192.168.1.10', 58354): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:35.912   Thread-6 network  WARNING  run        Thread-6 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:36.071   Thread-7 enip.srv WARNING  enip_srv   enip_58370 unable to wrap the socket with SSL for client ('192.168.1.10', 58370): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:36.071   Thread-7 network  WARNING  run        Thread-7 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:36.235   Thread-8 enip.srv WARNING  enip_srv   enip_58374 unable to wrap the socket with SSL for client ('192.168.1.10', 58374): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:36.235   Thread-8 network  WARNING  run        Thread-8 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:36.407   Thread-9 enip.srv WARNING  enip_srv   enip_58376 unable to wrap the socket with SSL for client ('192.168.1.10', 58376): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:36.408   Thread-9 network  WARNING  run        Thread-9 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:36.475 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:39:36.630  Thread-10 enip.srv WARNING  enip_srv   enip_58384 unable to wrap the socket with SSL for client ('192.168.1.10', 58384): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:36.630  Thread-10 network  WARNING  run        Thread-10 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:36.675 MainThread network  WARNING  join       Thread-1 server TID [510768/128796132902464] hanging on None
+11-11 12:39:36.796  Thread-11 enip.srv WARNING  enip_srv   enip_58386 unable to wrap the socket with SSL for client ('192.168.1.10', 58386): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:36.797  Thread-11 network  WARNING  run        Thread-11 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:36.964  Thread-12 enip.srv WARNING  enip_srv   enip_58398 unable to wrap the socket with SSL for client ('192.168.1.10', 58398): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:36.965  Thread-12 network  WARNING  run        Thread-12 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:37.127  Thread-13 enip.srv WARNING  enip_srv   enip_58404 unable to wrap the socket with SSL for client ('192.168.1.10', 58404): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:37.128  Thread-13 network  WARNING  run        Thread-13 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:37.324  Thread-14 enip.srv WARNING  enip_srv   enip_50210 unable to wrap the socket with SSL for client ('192.168.1.70', 50210): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:37.324  Thread-14 network  WARNING  run        Thread-14 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:37.516  Thread-15 enip.srv WARNING  enip_srv   enip_50214 unable to wrap the socket with SSL for client ('192.168.1.70', 50214): 'module' object has no attribute 'PROTOCOL_TLSv2'
+11-11 12:39:37.517  Thread-15 network  WARNING  run        Thread-15 server failure: 'module' object has no attribute 'PROTOCOL_TLSv2'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv2       # Specify SSL version (adjust as needed)
+AttributeError: 'module' object has no attribute 'PROTOCOL_TLSv2'
+
+11-11 12:39:37.530 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:39:37.731 MainThread network  WARNING  join       Thread-1 server TID [510738/137375992776256] hanging on None
+11-11 12:41:06.604   Thread-2 enip.srv WARNING  enip_srv   enip_45626 unable to wrap the socket with SSL for client ('192.168.1.10', 45626): [SSL] internal error (_ssl.c:733)
+11-11 12:41:06.606   Thread-2 network  WARNING  run        Thread-2 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:06.759   Thread-3 enip.srv WARNING  enip_srv   enip_45638 unable to wrap the socket with SSL for client ('192.168.1.10', 45638): [SSL] internal error (_ssl.c:733)
+11-11 12:41:06.759   Thread-3 network  WARNING  run        Thread-3 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:06.925   Thread-4 enip.srv WARNING  enip_srv   enip_45644 unable to wrap the socket with SSL for client ('192.168.1.10', 45644): [SSL] internal error (_ssl.c:733)
+11-11 12:41:06.925   Thread-4 network  WARNING  run        Thread-4 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:07.084   Thread-5 enip.srv WARNING  enip_srv   enip_45654 unable to wrap the socket with SSL for client ('192.168.1.10', 45654): [SSL] internal error (_ssl.c:733)
+11-11 12:41:07.084   Thread-5 network  WARNING  run        Thread-5 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:07.256   Thread-2 enip.srv WARNING  enip_srv   enip_38950 unable to wrap the socket with SSL for client ('192.168.1.10', 38950): [SSL] internal error (_ssl.c:733)
+11-11 12:41:07.259   Thread-2 network  WARNING  run        Thread-2 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:07.428   Thread-3 enip.srv WARNING  enip_srv   enip_38954 unable to wrap the socket with SSL for client ('192.168.1.10', 38954): [SSL] internal error (_ssl.c:733)
+11-11 12:41:07.428   Thread-3 network  WARNING  run        Thread-3 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:07.602   Thread-4 enip.srv WARNING  enip_srv   enip_38958 unable to wrap the socket with SSL for client ('192.168.1.10', 38958): [SSL] internal error (_ssl.c:733)
+11-11 12:41:07.602   Thread-4 network  WARNING  run        Thread-4 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:07.777   Thread-5 enip.srv WARNING  enip_srv   enip_38972 unable to wrap the socket with SSL for client ('192.168.1.10', 38972): [SSL] internal error (_ssl.c:733)
+11-11 12:41:07.778   Thread-5 network  WARNING  run        Thread-5 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:07.945   Thread-6 enip.srv WARNING  enip_srv   enip_38982 unable to wrap the socket with SSL for client ('192.168.1.10', 38982): [SSL] internal error (_ssl.c:733)
+11-11 12:41:07.946   Thread-6 network  WARNING  run        Thread-6 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:08.139   Thread-7 enip.srv WARNING  enip_srv   enip_38996 unable to wrap the socket with SSL for client ('192.168.1.10', 38996): [SSL] internal error (_ssl.c:733)
+11-11 12:41:08.139   Thread-7 network  WARNING  run        Thread-7 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:08.315   Thread-8 enip.srv WARNING  enip_srv   enip_38998 unable to wrap the socket with SSL for client ('192.168.1.10', 38998): [SSL] internal error (_ssl.c:733)
+11-11 12:41:08.315   Thread-8 network  WARNING  run        Thread-8 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:08.457 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:41:08.618   Thread-9 enip.srv WARNING  enip_srv   enip_43414 unable to wrap the socket with SSL for client ('192.168.1.10', 43414): [SSL] internal error (_ssl.c:733)
+11-11 12:41:08.619   Thread-9 network  WARNING  run        Thread-9 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:08.657 MainThread network  WARNING  join       Thread-1 server TID [511510/139685351392832] hanging on None
+11-11 12:41:08.802  Thread-10 enip.srv WARNING  enip_srv   enip_43426 unable to wrap the socket with SSL for client ('192.168.1.10', 43426): [SSL] internal error (_ssl.c:733)
+11-11 12:41:08.802  Thread-10 network  WARNING  run        Thread-10 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:08.966  Thread-11 enip.srv WARNING  enip_srv   enip_43434 unable to wrap the socket with SSL for client ('192.168.1.10', 43434): [SSL] internal error (_ssl.c:733)
+11-11 12:41:08.967  Thread-11 network  WARNING  run        Thread-11 server failure: [SSL] internal error (_ssl.c:733)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/network.py", line 161, in run
+    return super( server_runner, self ).run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/cpppo/server/enip/main.py", line 612, in enip_srv
+    ssl_version=ssl.PROTOCOL_TLSv1       # Specify SSL version (adjust as needed)
+  File "/usr/lib/python2.7/ssl.py", line 931, in wrap_socket
+    ciphers=ciphers)
+  File "/usr/lib/python2.7/ssl.py", line 599, in __init__
+    self.do_handshake()
+  File "/usr/lib/python2.7/ssl.py", line 828, in do_handshake
+    self._sslobj.do_handshake()
+SSLError: [SSL] internal error (_ssl.c:733)
+
+11-11 12:41:09.017 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:41:09.218 MainThread network  WARNING  join       Thread-1 server TID [511484/132473014978112] hanging on None
+11-11 12:47:19.315 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:47:19.515 MainThread network  WARNING  join       Thread-1 server TID [512798/131045227759168] hanging on None
+11-11 12:47:19.923 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 12:47:20.123 MainThread network  WARNING  join       Thread-1 server TID [512828/130601732539968] hanging on None
+11-11 14:49:57.795 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 14:49:58.004 MainThread network  WARNING  join       Thread-1 server TID [529950/132267234035264] hanging on None
+11-11 14:49:58.516 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 14:49:58.716 MainThread network  WARNING  join       Thread-1 server TID [529987/126089695331904] hanging on None
+11-11 15:17:14.269 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 15:17:14.470 MainThread network  WARNING  join       Thread-1 server TID [535301/140588596856384] hanging on None
+11-11 15:17:15.149 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+11-11 15:17:15.350 MainThread network  WARNING  join       Thread-1 server TID [535330/129076257883712] hanging on None
+12-02 14:10:09.037 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 14:10:09.112 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 14:10:09.146 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 14:12:16.272 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 14:12:16.473 MainThread network  WARNING  join       Thread-1 server TID [1635309/138766735902272] hanging on None
+12-02 14:12:17.840 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 14:12:18.041 MainThread network  WARNING  join       Thread-1 server TID [1635334/138073012700736] hanging on None
+12-02 15:34:09.708 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 15:34:09.770 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-02 19:12:19.141 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 19:12:19.342 MainThread network  WARNING  join       Thread-1 server TID [1685489/130491218921024] hanging on None
+12-02 19:12:20.821 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 19:12:21.021 MainThread network  WARNING  join       Thread-1 server TID [1685461/135498116892224] hanging on None
+12-02 19:15:35.635 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 19:15:35.836 MainThread network  WARNING  join       Thread-1 server TID [1686283/140047858796096] hanging on None
+12-02 19:15:38.627 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-02 19:15:38.827 MainThread network  WARNING  join       Thread-1 server TID [1686311/132833345537600] hanging on None
+12-03 12:40:04.428 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 12:40:04.636 MainThread network  WARNING  join       Thread-1 server TID [2139312/140518717654592] hanging on None
+12-03 12:40:05.308 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 12:40:05.509 MainThread network  WARNING  join       Thread-1 server TID [2139338/130829726516800] hanging on None
+12-03 12:42:34.976 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 12:42:34.976 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 12:43:25.645 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 12:43:25.668 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 12:47:13.493 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 12:47:13.711 MainThread network  WARNING  join       Thread-1 server TID [2143267/128814545897024] hanging on None
+12-03 12:47:14.069 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 12:47:14.270 MainThread network  WARNING  join       Thread-1 server TID [2143294/127231997249088] hanging on None
+12-03 12:52:18.323 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 12:52:18.343 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 12:52:18.424 MainThread root     WARNING  logrotate_ Rotating log files due to signal
+12-03 12:56:58.379 MainThread network  WARNING  server_mai enip_srv server termination: KeyboardInterrupt()
+12-03 12:56:58.579 MainThread network  WARNING  join       Thread-1 server TID [2149612/136859774617152] hanging on None

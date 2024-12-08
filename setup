@@ -1,0 +1,9 @@
+sudo apt install python-pip
+pip install minicps
+sudo apt install mininet
+sudo apt-get install openvswitch-testcontroller
+sudo apt install xterm
+
+
+Killing other processes running on port 6653
+sudo fuser -k 6653/tcp
