@@ -1,39 +1,68 @@
-# Starting the emulation #
+#  AWS Instances #
 
-- Make sure the files start_emulation.sh and cleanup.sh have execution permission
-- This code is compatible only with cpppo version 4.3.0. If you have any other version, force install v4.3.0 using the command 'sudo pip install --force-reinstall -v "cpppo==4.3.0"'
-- Open Terminal and set the working directory to swat_emulation
-- Run 'sudo bash start_emulation.sh' - This will clear all old log files and start the SWaT emulation. This will also create a 'historian' folder where process logs will be saved, and two pcap files that will record the network traffic.
-  - Occasionally, you may encounter an error message as follows: "Exception: Please shut down the controller which is running on port 6653"
-    In this case, run the command 'sudo fuser -k 6653/tcp', and rerun the start_emulation.sh script.
-- Once the start_emulation.sh script starts, hit Enter on the terminal to enter the Mininet terminal (mininet>) and execute the following 3 commands to open three different terminals, one for plc1, one for plcx (contains the logic of plc2 - plc6), and one for s1 (node from where we execute the physical process)
-  - xterm plc1
-  - xterm plcx
-  - xterm s1
-- If you want to capture traffic, open two more s1 terminals using 'xterm s1'.
-  From one of these terminals run the command 'sudo tshark -i s1-eth1 -w s1-eth1.pcap &' and from the other one run the command 'sudo tshark -i s1-eth2 -w s1-eth2.pcap &'.  
-- Start executing the PLC logic and the physical process logic now. Run the following commands in quick succession in the exact same order mentioned below.
-  - From s1 terminal, run 'sudo python physical_process.py'
-  - From plcx terminal, run 'sudo python plcx.py'
-  - From plc1 terminal, run 'sudo python plc1.py'
-- Once the experiments are over, close the mininet terminals, and hit Ctrl+D in the main terminal to exit mininet. Typically, it would take around 18 hours for the testbed to complete one operational cycle.  
-- At this point, we have the traffic captured in the files s1-eth1.pcap and s1-eth2.pcap, the log files are inside the 'historian' directory, and the temp files are in the 'swat_emulation' directory. For the sake of our experiments, the emulation also generates two additional log files, P1_state.csv and TankLevelReadings.csv.
-- To construct a singular historian file from the logs, run the command 'python compile_historian.py -in historian/ -out .'. This will create a file historian.csv in the working directory.
-- To clean up the log and temp files, execute the command 'sudo ./cleanup.sh'.
-- The pcap files, log files, and historian file can be saved in a separate directory manually for future use. These files should be maintained on an external storage (not Github), as they would typically be very large in size. We have maintained the files at https://drive.google.com/drive/folders/16QZqrv7dX48T-xbKSHisK5XKlwGQAHFm?usp=sharing.
+## Creating Security Groups #
+ - Navigate to EC2 Dashboard on Region 1. 
+ - On left side bar, select Security Groups under Network & Security. 
+ - Create Security Group 
+ - Inbound rules:
+   - Type: All traffic
+   - Source: Anywhere-IPv4
+ - Outbound rules:
+   - Type: All traffic
+   - Destination: Anywhere IPv4. 
+ - Repeat the above on Region 2. 
+## Launching Instances
 
+- On Region 1, navigate to Instances. 
+- Select Launch Instances.
+- launch an EC2 instance with the following configuration:
+  - Application and OS Image. Navigate to Quick start. 
+    - AMI: Select Ubuntu Server 22.04 LTS (HVM), SSD Volume Type (Confirm warning).
+    - Architecture 64-bit (x86)
+  - Instance Type: t2.micro
+  - Create key pair. 
+  - Network Settings:
+    - Firewall: Select existing security group and select the group we created above. 
+  - Rest of settings can be left as defaults. 
+  - Select Launch instance. 
+  - Connect to instance. This can be done from Instances, select instance, connect. 
+- Repeat the above on Region 2. 
+- One instance will be plcx and the other will be plc1. 
 
-### What is this repository for? ###
+For the following instructions, execute on both hosts. 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+# Installations #
+- `sudo su`
+- `apt update`
+- `apt install net-tools`
+- `apt install docker.io`
+- `git clone https://github.com/alainzhiyanov/swat_emulation.git`
+- Run `ifconfig` and change IPs, netmask, and MAC in `swat_emulation/utils.py`. 
+  - IPs will be the public IPs of the ec2 hosts and netmask and MACs will be under eth0. 
+  - Netmask is /20. 
 
+# Docker #
+- `git clone https://github.com/alainzhiyanov/ics-sniper-docker.git`
+- `cd ics-sniper-docker/docker-for-py2-ics-sniper`
+- `docker build -t ics-sniper-py2 -f Dockerfile_py2 .` This will build the docker image. This will take a few minutes. 
+- `sudo docker run -it --rm --privileged  --network host  -e DISPLAY     -v /tmp/.X11-unix:/tmp/.X11-unix     -v /lib/modules:/lib/modules     -v /home/ubuntu/swat_emulation:/swat_emulation    ics-sniper-py2` This will run the docker container. 
 
-# Scratch #
-vpn experiments
-- h1 openvpn --config /home/gargi/Desktop/ICS_Sec/vpn_expt/server.conf &
-- h2 openvpn --config /home/gargi/Desktop/ICS_Sec/vpn_expt/client.conf &
-- h3 openvpn --config /home/gargi/Desktop/ICS_Sec/vpn_expt/client.conf &
-- h4 openvpn --config /home/gargi/Desktop/ICS_Sec/vpn_expt/client.conf &
-- h2 ping h1
+# Code Change #
+- Navigate to minicps package. `cd /usr/local/lib/python2.7/dist-packages/minicps/`
+- Edit `protocols.py`. Change line 332 to `ADDRESS = '--address ' + '0.0.0.0' + ' '`
+
+# Opening up New Terminal Windows #
+- Open up new terminal windows. Can start by duplicating current terminal tab. 
+- On the new terminal:
+- `sudo su`
+- `docker ps`. Copy container id.
+-  `docker exec -it <container_id> /bin/bash`
+- If you'd like to capture packets, you'll need to repeat this for a third terminal window. 
+
+# Running Emulation #
+- On all terminal windows, `cd /swat_emulation`. 
+- `python2 init.py`
+- On plcx host: `python2 physical_process_x.py `
+- On plc1 host: `python2 physical_process_1.py`
+- On plcx host: `python2 plcx.py`
+- On plc1 host: `python2 plc1.py`

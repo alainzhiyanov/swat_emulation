@@ -191,7 +191,7 @@ class RawWaterTank(Tank):
         self.result.append(new_result)
 
         # Sending updated P1.P101.DI_Run value to the other SubProcess
-        subprocess.call(["python", "./client_plc1.py", IP['plcx'], str(int(php.logdf.loc['P1.P101.DI_Run','Value']))])
+        subprocess.call(["python2", "./client_plc1.py", IP['plcx'], str(int(php.logdf.loc['P1.P101.DI_Run','Value']))])
 
 
         print (self.result[php.k][0:5])

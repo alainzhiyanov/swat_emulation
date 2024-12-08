@@ -221,7 +221,7 @@ class RawWaterTank(Tank):
         try:
             # Start the server script in the background
             process = subprocess.Popen(
-                ["python", "server_plcx.py"],
+                ["python2", "server_plcx.py"],
                 stdout=subprocess.PIPE,
                 stderr=subprocess.PIPE
             )
