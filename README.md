@@ -57,7 +57,7 @@ For the following instructions, execute on both hosts.
 - `sudo su`
 - `docker ps`. Copy container id.
 -  `docker exec -it <container_id> /bin/bash`
-- If you'd like to capture packets, you'll need to repeat this for a third terminal window. 
+- If you'd like to capture packets, you'll need to repeat this for a third terminal window and run tshark command there. 
 
 # Running Emulation #
 - On all terminal windows, `cd /swat_emulation`. 
