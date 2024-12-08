@@ -61,6 +61,7 @@ For the following instructions, execute on both hosts.
 
 # Running Emulation #
 - On all terminal windows, `cd /swat_emulation`. 
+- Run `mkdir ./historian`, then `sudo chmod -R 777 ./historian`. 
 - `python2 init.py`
 - On plcx host: `python2 physical_process_x.py `
 - On plc1 host: `python2 physical_process_1.py`
